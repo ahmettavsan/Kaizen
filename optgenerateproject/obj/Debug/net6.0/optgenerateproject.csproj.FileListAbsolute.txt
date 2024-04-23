@@ -1,0 +1,15 @@
+/Users/ahmet/Downloads/printreceipt-master/optgenerateproject/bin/Debug/net6.0/optgenerateproject
+/Users/ahmet/Downloads/printreceipt-master/optgenerateproject/bin/Debug/net6.0/optgenerateproject.deps.json
+/Users/ahmet/Downloads/printreceipt-master/optgenerateproject/bin/Debug/net6.0/optgenerateproject.runtimeconfig.json
+/Users/ahmet/Downloads/printreceipt-master/optgenerateproject/bin/Debug/net6.0/optgenerateproject.dll
+/Users/ahmet/Downloads/printreceipt-master/optgenerateproject/bin/Debug/net6.0/optgenerateproject.pdb
+/Users/ahmet/Downloads/printreceipt-master/optgenerateproject/obj/Debug/net6.0/optgenerateproject.csproj.AssemblyReference.cache
+/Users/ahmet/Downloads/printreceipt-master/optgenerateproject/obj/Debug/net6.0/optgenerateproject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmet/Downloads/printreceipt-master/optgenerateproject/obj/Debug/net6.0/optgenerateproject.AssemblyInfoInputs.cache
+/Users/ahmet/Downloads/printreceipt-master/optgenerateproject/obj/Debug/net6.0/optgenerateproject.AssemblyInfo.cs
+/Users/ahmet/Downloads/printreceipt-master/optgenerateproject/obj/Debug/net6.0/optgenerateproject.csproj.CoreCompileInputs.cache
+/Users/ahmet/Downloads/printreceipt-master/optgenerateproject/obj/Debug/net6.0/optgenerateproject.dll
+/Users/ahmet/Downloads/printreceipt-master/optgenerateproject/obj/Debug/net6.0/refint/optgenerateproject.dll
+/Users/ahmet/Downloads/printreceipt-master/optgenerateproject/obj/Debug/net6.0/optgenerateproject.pdb
+/Users/ahmet/Downloads/printreceipt-master/optgenerateproject/obj/Debug/net6.0/optgenerateproject.genruntimeconfig.cache
+/Users/ahmet/Downloads/printreceipt-master/optgenerateproject/obj/Debug/net6.0/ref/optgenerateproject.dll
